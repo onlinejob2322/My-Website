@@ -1,0 +1,6 @@
+{
+  "name": "Aminur BD Shop",
+  "description": "বাংলাদেশের বিশ্বস্ত প্রিমিয়াম অনলাইন শপ - ক্যাশ অন ডেলিভারি, বিকাশ ও নগদ পেমেন্ট, অ্যাডমিন প্যানেল ও লাইভ ট্র্যাকিং।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
